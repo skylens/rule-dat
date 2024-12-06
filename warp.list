@@ -1,10 +1,15 @@
++.auth0.com
++.identrust.com
 +.perplexity.ai
 +.cloudflare.com
++.cloudflare-ech.com
 +.intercomcdn.com
 +.intercom.io
 +.usefathom.com
 +.anthropic.com
 +.sanity.io
 +.claude.ai
-+.ipinfo.io
 +.openai.com
++.zed.dev
++.ipinfo.io
++.ip.sb
