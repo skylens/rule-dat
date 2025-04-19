@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"rules": [
+		{
+			"domain_suffix": [
+				"auth0.com",
+				"identrust.com",
+				"perplexity.ai",
+				"cloudflare.com",
+				"cloudflare-ech.com",
+				"intercomcdn.com",
+				"intercom.io",
+				"usefathom.com",
+				"anthropic.com",
+				"sanity.io",
+				"claude.ai",
+				"openai.com",
+				"zed.dev",
+				"ipinfo.io",
+				"ip.sb"
+			]
+		}
+	]
+}

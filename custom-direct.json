@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "anydesk.com",
+        "kanpian.eu.org",
+        "vidhub.icu",
+        "myd04.com",
+        "play-cdn15.com",
+        "1080zyk3.com",
+        "traefik.me"
+      ]
+    }
+  ]
+}
